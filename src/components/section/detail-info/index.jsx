@@ -13,7 +13,6 @@ export default function DetailInfo() {
       <video className="w-full" autoPlay muted>
         <source
           src="https://youtu.be/Orv-DludwYM?si=jzK1t8Nwd4NIyKr7"
-          type="video/mp4"
         />
         Your browser does not support the video tag.
       </video>
