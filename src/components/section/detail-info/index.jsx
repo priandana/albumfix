@@ -12,7 +12,7 @@ export default function DetailInfo() {
     <div className="space-y-5 pb-10">
       <video className="w-full" autoPlay muted>
         <source
-          src="https://youtu.be/Orv-DludwYM?si=lEYyCb7l4Cgz3DKR"
+          src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
           type="video/mp4"
         />
         Your browser does not support the video tag.
